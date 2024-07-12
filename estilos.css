@@ -1,0 +1,37 @@
+*{
+    margin: auto;
+}
+
+.botones input{
+    border-radius: 10px;
+    border: solid 1px purple;
+    color:white;
+    background-color: purple;
+    padding:5px
+    
+}
+.pie{
+    border-radius: 10px;
+    text-align: center;
+    background-color: red;
+
+}
+.remit{
+    display: flex;
+}
+.doble{
+    border-radius: 30px;
+    border: solid 3px red;
+}
+.doncella{
+    border-radius: 10px;
+    border: solid 3px red;
+}
+.row{
+    text-align: center;
+}
+.rosat{
+    border-radius: 10px;
+    border: solid 1px gray;
+
+}
